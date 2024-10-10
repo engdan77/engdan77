@@ -15,7 +15,7 @@ def main():
     d = {
             'mean_across_repos': statistics.mean(all_repos),
             'max_across_repos': max(all_repos),
-            'repos_count': len(x)
+            'repos_count': len(all_repos)
         }
 
     rendered_readme = template.render(updated_at=updated_at, d=d)
