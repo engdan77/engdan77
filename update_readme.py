@@ -30,7 +30,8 @@ def main():
          'max_lines_of_code': max_lines_of_code,
          'top_largest_projects': top_largest_projects,
          'updated': last_run,
-         'chart': chart
+         'chart': chart,
+         'last_run': last_run
          }
 
     rendered_readme = template.render(d=d)
