@@ -12,7 +12,6 @@ def main():
 
     x = repos_summary(['engdan77'], output_format=OutputFormat.JSON)
     chart = base64.b64decode(x['b64_mermaid_chart']).decode('utf-8')
-
     first_year = min([_['year'] for _ in x['engdan77']])
     this_year = datetime.datetime.now().year
     years_since_first_repo = this_year - first_year
