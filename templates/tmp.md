@@ -1,4 +1,4 @@
-Welcome to my profile ... 👋
+### Welcome to my profile ... 👋
 
 My name is **Daniel Engvall**, and living in Sweden 🇸🇪 together with the rest of my family.
 I use GitHub for my *personal* projects that include code and documentation, the majority of which is written in [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) 🐍 together with technologies such as [Dockers](https://en.wikipedia.org/wiki/Docker_(software)), which is and has been one of my primary go-to programming languages after I've been exposed to other languages such as [Basic](https://en.wikipedia.org/wiki/BASIC), [C++](https://en.wikipedia.org/wiki/C%2B%2B), [Perl](https://en.wikipedia.org/wiki/Perl), [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)), and [PHP](https://en.wikipedia.org/wiki/PHP), none of them fell into my true taste. While I developed quite sophisticated solutions using [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) that eventually got outgrown and I pursued a productive, dynamic, and full spectrum language to run well from anything from [microcontrollers](https://en.wikipedia.org/wiki/ESP32) and [embedded systems](https://en.wikipedia.org/wiki/Embedded_system)  (anyone ever had a [Dreambox](https://en.wikipedia.org/wiki/Dreambox) 📺..?) ..  [GUI apps](https://wiki.python.org/moin/GuiProgramming), even [mobile apps](https://kivy.org/), *web-frontend* development *(e.g. [PyScript](https://pyscript.net/))* and [statistical analysis](https://pandas.pydata.org/getting_started.html) to the scalable server application *([FastAPI](https://fastapi.tiangolo.com/) to name one of many)*. So, I have tried using **[Python](https://en.wikipedia.org/wiki/Python_(programming_language))** for the most versatile purposes. 😅👍
@@ -17,6 +17,8 @@ This has been *<u>dynamically</u>* updated on **{{ d['last_run'] }}** with the h
 
 - 👀 LinkedIn profile https://www.linkedin.com/in/danielengvall/
 - 📫 If you like to get in contact with me please send an email to daniel@engvalls.eu
+
+
 
 
 
