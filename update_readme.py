@@ -3,6 +3,7 @@ from jinja2 import Environment, FileSystemLoader
 from count_code_lines import repos_summary, OutputFormat
 from statistics import mean
 import datetime
+import base64
 
 
 def main(): 
@@ -10,6 +11,7 @@ def main():
     template = env.get_template('README.md.j2')
 
     x = repos_summary(['engdan77'], output_format=OutputFormat.JSON)
+    chart = base64.b64decode(x['b64_mermaid_chart']).decode('utf-8')
 
     first_year = min([_['year'] for _ in x['engdan77']])
     this_year = datetime.datetime.now().year
@@ -28,7 +30,8 @@ def main():
          'total_projects': total_projects,
          'max_lines_of_code': max_lines_of_code,
          'top_largest_projects': top_largest_projects,
-         'updated': last_run
+         'updated': last_run,
+         'chart': chart
          }
 
     rendered_readme = template.render(d=d)
