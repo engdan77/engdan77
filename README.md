@@ -10,10 +10,10 @@ A more recent growing passion for better understanding and writing more maintain
 
 Some facts about the current content are found on my GitHub - but feel free to check them out in detail over [here](https://github.com/engdan77?tab=repositories):
 
-- During the past **8 years** have written **33747 lines of code** across **30 projects** collected here.
+- During the past **8 years** have written **33754 lines of code** across **30 projects** collected here.
 - Out of those projects written here, currently the **largest** ones are written with around 5k lines of code, currently at the top being [iot_fan_controller](https://github.com/engdan77/iot_fan_controller.git), [otis_service](https://github.com/engdan77/otis_service.git) and [otis_web](https://github.com/engdan77/otis_web.git)
 
-This has been *<u>dynamically</u>* updated on **2024-10-11 13:12** with the help of Python and [GitHub Actions](https://docs.github.com/en/actions).
+This has been *<u>dynamically</u>* updated on **2024-10-13 01:40** with the help of Python and [GitHub Actions](https://docs.github.com/en/actions).
 
 - 👀 LinkedIn profile https://www.linkedin.com/in/danielengvall/
 - 📫 If you like to get in contact with me please send an email to daniel@engvalls.eu
@@ -25,5 +25,5 @@ This has been *<u>dynamically</u>* updated on **2024-10-11 13:12** with the help
 xychart-beta
       title "Line of codes per year"
       x-axis "Year" [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
-      bar "engdan77" [40, 276, 145, 10325, 3776, 3287, 10533, 1778, 3587]
+      bar "engdan77" [40, 276, 145, 10325, 3776, 3287, 10533, 1785, 3587]
 ```
