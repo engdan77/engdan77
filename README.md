@@ -10,10 +10,10 @@ A more recent growing passion for better understanding and writing more maintain
 
 Some facts about the current content are found on my GitHub - but feel free to check them out in detail over [here](https://github.com/engdan77?tab=repositories):
 
-- During the past **9 years** have written **31119 lines of code** across **30 projects** collected here.
-- Out of those projects written here, currently the **largest** ones are written with around 5k lines of code, currently at the top being [iot_fan_controller](https://github.com/engdan77/iot_fan_controller.git), [otis_service](https://github.com/engdan77/otis_service.git) and [esp32_buttons](https://github.com/engdan77/esp32_buttons.git)
+- During the past **9 years** have written **27938 lines of code** across **30 projects** collected here.
+- Out of those projects written here, currently the **largest** ones are written with around 4k lines of code, currently at the top being [iot_fan_controller](https://github.com/engdan77/iot_fan_controller.git), [esp32_buttons](https://github.com/engdan77/esp32_buttons.git) and [metrics_collector](https://github.com/engdan77/metrics_collector.git)
 
-This has been *<u>dynamically</u>* updated on **2025-04-27 01:52** with the help of Python and [GitHub Actions](https://docs.github.com/en/actions).
+This has been *<u>dynamically</u>* updated on **2025-05-04 01:56** with the help of Python and [GitHub Actions](https://docs.github.com/en/actions).
 
 - 👀 LinkedIn profile https://www.linkedin.com/in/danielengvall/
 - 📫 If you like to get in contact with me please send an email to daniel@engvalls.eu
@@ -25,5 +25,5 @@ This has been *<u>dynamically</u>* updated on **2025-04-27 01:52** with the help
 xychart-beta
       title "Lines of code per year"
       x-axis "Year" [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
-      bar "engdan77" [40, 276, 145, 7293, 3776, 2717, 10533, 1045, 3587, 1707]
+      bar "engdan77" [40, 276, 145, 3857, 3776, 2717, 10533, 1300, 3587, 1707]
 ```
