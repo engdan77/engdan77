@@ -10,13 +10,29 @@ A more recent growing passion for better understanding and writing more maintain
 
 Some facts about the current content are found on my GitHub - but feel free to check them out in detail over [here](https://github.com/engdan77?tab=repositories):
 
-- During the past **9 years** have written **29562 lines of code** across **30 projects** collected here.
-- Out of those projects written here, currently the **largest** ones are written with around 4k lines of code, currently at the top being [iot_fan_controller](https://github.com/engdan77/iot_fan_controller.git), [esp32_buttons](https://github.com/engdan77/esp32_buttons.git) and [metrics_collector](https://github.com/engdan77/metrics_collector.git)
+- During the past **11 years** have written **44649 lines of code** across **41 projects** collected here.
+- Out of those projects written here, currently the **largest** ones are written with around 5k lines of code, currently at the top being [iot_fan_controller](https://github.com/engdan77/iot_fan_controller.git), [tasks_collector](https://github.com/engdan77/tasks_collector.git) and [otis_service](https://github.com/engdan77/otis_service.git)
 
-This has been *<u>dynamically</u>* updated on **2025-07-27 02:11** with the help of Python and [GitHub Actions](https://docs.github.com/en/actions).
+This has been *<u>dynamically</u>* updated on **2025-07-31 11:34** with the help of Python and [GitHub Actions](https://docs.github.com/en/actions).
 
 - 👀 LinkedIn profile https://www.linkedin.com/in/danielengvall/
 - 📫 If you like to get in contact with me please send an email to daniel@engvalls.eu
+
+Please visit my list of projects [here](https://github.com/engdan77?tab=repositories), and below a summary of those.
+
+- **2025**: [images_to_pdf](https://github.com/images_to_pdf/images_to_pdf), [jamwatch](https://github.com/jamwatch/jamwatch), [wilmut_invader](https://github.com/wilmut_invader/wilmut_invader)
+- **2024**: [count_code_lines](https://github.com/count_code_lines/count_code_lines), [engdan77.github.io](https://github.com/engdan77.github.io/engdan77.github.io), [femkamp](https://github.com/femkamp/femkamp), [mitm_youtube_repeller](https://github.com/mitm_youtube_repeller/mitm_youtube_repeller), [notebooks](https://github.com/notebooks/notebooks)
+- **2023**: [alfons_timer](https://github.com/alfons_timer/alfons_timer), [ameliagpt](https://github.com/ameliagpt/ameliagpt), [memocast](https://github.com/memocast/memocast), [smartbox](https://github.com/smartbox/smartbox), [musicplayer](https://github.com/musicplayer/musicplayer)
+- **2022**: [engdan77](https://github.com/engdan77/engdan77), [jokebox](https://github.com/jokebox/jokebox), [metrics_collector](https://github.com/metrics_collector/metrics_collector), [music_meta_manager](https://github.com/music_meta_manager/music_meta_manager), [python_mermaid](https://github.com/python_mermaid/python_mermaid), [olm_convert](https://github.com/olm_convert/olm_convert)
+- **2021**: [cat_alarm](https://github.com/cat_alarm/cat_alarm), [mail_export](https://github.com/mail_export/mail_export), [mail_relay](https://github.com/mail_relay/mail_relay), [project_images](https://github.com/project_images/project_images), [raspberry_lab](https://github.com/raspberry_lab/raspberry_lab)
+- **2020**: [iot_fan_controller](https://github.com/iot_fan_controller/iot_fan_controller), [evernote-to-sqlite](https://github.com/evernote-to-sqlite/evernote-to-sqlite)
+- **2019**: [diy_robot](https://github.com/diy_robot/diy_robot), [dummy_screen](https://github.com/dummy_screen/dummy_screen), [esp32_buttons](https://github.com/esp32_buttons/esp32_buttons), [hass_assister](https://github.com/hass_assister/hass_assister)
+- **2018**: [borg_scheduler](https://github.com/borg_scheduler/borg_scheduler), [faktura_web](https://github.com/faktura_web/faktura_web), [tasks_collector](https://github.com/tasks_collector/tasks_collector)
+- **2017**: [maven-project](https://github.com/maven-project/maven-project)
+- **2016**: [automount_usb](https://github.com/automount_usb/automount_usb)
+- **2015**: [bank_to_qif](https://github.com/bank_to_qif/bank_to_qif), [fund_stats](https://github.com/fund_stats/fund_stats), [otis_app](https://github.com/otis_app/otis_app), [otis_web](https://github.com/otis_web/otis_web)
+- **2014**: [car_gps](https://github.com/car_gps/car_gps), [otis_service](https://github.com/otis_service/otis_service)
+
 
 ---
 
@@ -24,6 +40,6 @@ This has been *<u>dynamically</u>* updated on **2025-07-27 02:11** with the help
 ```mermaid
 xychart-beta
       title "Lines of code per year"
-      x-axis "Year" [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
-      bar "engdan77" [40, 276, 145, 3312, 3776, 2717, 10533, 3469, 3587, 1707]
+      x-axis "Year" [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2014, 2015]
+      bar "engdan77" [40, 276, 5888, 4062, 3829, 6304, 8858, 2784, 4556, 4108, 1966, 1978]
 ```
