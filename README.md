@@ -10,10 +10,10 @@ A more recent growing passion for better understanding and writing more maintain
 
 Some facts about the current content are found on my GitHub - but feel free to check them out in detail over [here](https://github.com/engdan77?tab=repositories):
 
-- During the past **11 years** have written **44649 lines of code** across **41 projects** collected here.
+- During the past **11 years** have written **44685 lines of code** across **41 projects** collected here.
 - Out of those projects written here, currently the **largest** ones are written with around 5k lines of code, currently at the top being [iot_fan_controller](https://github.com/engdan77/iot_fan_controller.git), [tasks_collector](https://github.com/engdan77/tasks_collector.git) and [otis_service](https://github.com/engdan77/otis_service.git)
 
-This has been *<u>dynamically</u>* updated on **2025-07-31 11:34** with the help of Python and [GitHub Actions](https://docs.github.com/en/actions).
+This has been *<u>dynamically</u>* updated on **2025-07-31 09:39** with the help of Python and [GitHub Actions](https://docs.github.com/en/actions).
 
 - 👀 LinkedIn profile https://www.linkedin.com/in/danielengvall/
 - 📫 If you like to get in contact with me please send an email to daniel@engvalls.eu
@@ -41,5 +41,5 @@ Please visit my list of projects [here](https://github.com/engdan77?tab=reposito
 xychart-beta
       title "Lines of code per year"
       x-axis "Year" [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2014, 2015]
-      bar "engdan77" [40, 276, 5888, 4062, 3829, 6304, 8858, 2784, 4556, 4108, 1966, 1978]
+      bar "engdan77" [40, 276, 5888, 4062, 3829, 6304, 8858, 2784, 4592, 4108, 1966, 1978]
 ```
