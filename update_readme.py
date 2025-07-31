@@ -1,3 +1,13 @@
+# /// script
+# requires-python = ">=3.12"
+# dependencies = [
+#     "count-code-lines",
+#     "jinja2",
+# ]
+#
+# [tool.uv.sources]
+# count-code-lines = { git = "https://github.com/engdan77/count_code_lines.git" }
+# ///
 from datetime import datetime
 from jinja2 import Environment, FileSystemLoader
 from count_code_lines import repos_summary, OutputFormat
