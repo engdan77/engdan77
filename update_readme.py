@@ -27,13 +27,13 @@ def get_projects_by_year(repos) -> dict[dict]:
     return projects_by_year
 
 
-def get_projects_per_year_as_markdown(projects_by_year, repo_name='engdan77'):
+def get_projects_per_year_as_markdown(projects_by_year, username='engdan77'):
     markdown = ''
     for year, projects in sorted(projects_by_year.items(), reverse=True, key=lambda x: x[0]):
         repos = []
         for p in projects:
             repo_name = p['repo_name']
-            project_url = f'https://github.com/{repo_name}/{repo_name}'
+            project_url = f'https://github.com/{username}/{repo_name}'
             repos.append(f'[{repo_name}]({project_url})')
         markdown += f'- **{year}**: {", ".join(repos)}\n'
     return markdown
@@ -58,7 +58,7 @@ def main():
     top_largest_projects = ', '.join([as_link(_['repo_name']) for _ in biggest_projects[:2]]) + f' and {as_link(biggest_projects[2]['repo_name'])}'
     last_run = datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
     all_projects_by_year = get_projects_by_year(x[repo])
-    projects_markdown = get_projects_per_year_as_markdown(all_projects_by_year, repo_name=repo)
+    projects_markdown = get_projects_per_year_as_markdown(all_projects_by_year, username=repo)
 
     d = {'total_code_lines': total_code_lines,
          'years_since_first_repo': years_since_first_repo,
