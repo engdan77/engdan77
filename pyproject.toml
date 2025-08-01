@@ -1,6 +1,6 @@
 [project]
 name = "engdan77"
-version = "2025.7.3"
+version = "2025.7.4"
 description = "My personal profile"
 requires-python = ">=3.11"
 dependencies = [

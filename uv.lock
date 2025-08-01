@@ -127,8 +127,8 @@ wheels = [
 
 [[package]]
 name = "count-code-lines"
-version = "0.0.7"
-source = { git = "https://github.com/engdan77/count_code_lines.git#98b634a534ba684d80e040347c977824f5035a95" }
+version = "0.0.8"
+source = { git = "https://github.com/engdan77/count_code_lines.git#0b5263c04c7d8715c19ae98f8e110c8056ab9c7f" }
 dependencies = [
     { name = "certifi" },
     { name = "cffi" },
@@ -194,7 +194,7 @@ wheels = [
 
 [[package]]
 name = "engdan77"
-version = "2025.7.1"
+version = "2025.7.3"
 source = { virtual = "." }
 dependencies = [
     { name = "count-code-lines" },
