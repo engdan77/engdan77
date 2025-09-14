@@ -10,17 +10,17 @@ A more recent growing passion for better understanding and writing more maintain
 
 Some facts about the current content are found on my GitHub - but feel free to check them out in detail over [here](https://github.com/engdan77?tab=repositories):
 
-- During the past **13 years** have written **56183 lines of code** across **43 projects** collected here.
+- During the past **13 years** have written **56387 lines of code** across **44 projects** collected here.
 - Out of those projects written here, currently the **largest** ones are written with around 8k lines of code, currently at the top being [jrnl](https://github.com/engdan77/jrnl.git), [iot_fan_controller](https://github.com/engdan77/iot_fan_controller.git) and [tasks_collector](https://github.com/engdan77/tasks_collector.git)
 
-This has been *<u>dynamically</u>* updated on **2025-09-07 01:48** with the help of Python and [GitHub Actions](https://docs.github.com/en/actions).
+This has been *<u>dynamically</u>* updated on **2025-09-14 01:47** with the help of Python and [GitHub Actions](https://docs.github.com/en/actions).
 
 - 👀 LinkedIn profile https://www.linkedin.com/in/danielengvall/
 - 📫 If you like to get in contact with me please send an email to daniel@engvalls.eu
 
 Please visit my list of projects [here](https://github.com/engdan77?tab=repositories), and below a summary of those.
 
-- **2025**: [energylens](https://github.com/engdan77/energylens), [images_to_pdf](https://github.com/engdan77/images_to_pdf), [jamwatch](https://github.com/engdan77/jamwatch), [wilmut_invader](https://github.com/engdan77/wilmut_invader)
+- **2025**: [energylens](https://github.com/engdan77/energylens), [images_to_pdf](https://github.com/engdan77/images_to_pdf), [jamwatch](https://github.com/engdan77/jamwatch), [proxy](https://github.com/engdan77/proxy), [wilmut_invader](https://github.com/engdan77/wilmut_invader)
 - **2024**: [count_code_lines](https://github.com/engdan77/count_code_lines), [engdan77.github.io](https://github.com/engdan77/engdan77.github.io), [femkamp](https://github.com/engdan77/femkamp), [mitm_youtube_repeller](https://github.com/engdan77/mitm_youtube_repeller), [notebooks](https://github.com/engdan77/notebooks)
 - **2023**: [alfons_timer](https://github.com/engdan77/alfons_timer), [ameliagpt](https://github.com/engdan77/ameliagpt), [memocast](https://github.com/engdan77/memocast), [smartbox](https://github.com/engdan77/smartbox), [musicplayer](https://github.com/engdan77/musicplayer)
 - **2022**: [engdan77](https://github.com/engdan77/engdan77), [jokebox](https://github.com/engdan77/jokebox), [metrics_collector](https://github.com/engdan77/metrics_collector), [music_meta_manager](https://github.com/engdan77/music_meta_manager), [python_mermaid](https://github.com/engdan77/python_mermaid), [olm_convert](https://github.com/engdan77/olm_convert)
@@ -42,5 +42,5 @@ Please visit my list of projects [here](https://github.com/engdan77?tab=reposito
 xychart-beta
       title "Lines of code per year"
       x-axis "Year" [2012, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
-      bar "engdan77" [10507, 3829, 4062, 40, 276, 5888, 6304, 8858, 2784, 4593, 4113, 2382, 2547]
+      bar "engdan77" [10635, 3829, 4062, 40, 276, 5888, 6304, 8858, 2784, 4593, 4113, 2382, 2623]
 ```
