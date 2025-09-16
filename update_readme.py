@@ -1,7 +1,7 @@
 # /// script
 # requires-python = ">=3.12"
 # dependencies = [
-#     "count-code-lines",
+#     "count_code_lines@git+https://github.com/engdan77/count_code_lines.git",
 #     "jinja2",
 # ]
 #
@@ -44,7 +44,7 @@ def main():
     template = env.get_template('README.md.j2')
     repo = 'engdan77'
 
-    x = repos_summary([repo], output_format=OutputFormat.JSON)
+    x = repos_summary([repo], output_format=OutputFormat.JSON, exclude_project=('jrnl',))
     chart = base64.b64decode(x['b64_mermaid_chart']).decode('utf-8')
     first_year = min([_['year'] for _ in x[repo]])
     this_year = datetime.datetime.now().year
