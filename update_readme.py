@@ -4,9 +4,6 @@
 #     "count_code_lines@git+https://github.com/engdan77/count_code_lines.git",
 #     "jinja2",
 # ]
-#
-# [tool.uv.sources]
-# count-code-lines = { git = "https://github.com/engdan77/count_code_lines.git" }
 # ///
 from collections import defaultdict
 from datetime import datetime
