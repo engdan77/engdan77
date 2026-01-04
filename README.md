@@ -10,10 +10,10 @@ A more recent growing passion for better understanding and writing more maintain
 
 Some facts about the current content are found on my GitHub - but feel free to check them out in detail over [here](https://github.com/engdan77?tab=repositories):
 
-- During the past **11 years** have written **47000 lines of code** across **46 projects** collected here.
+- During the past **12 years** have written **47000 lines of code** across **46 projects** collected here.
 - Out of those projects written here, currently the **largest** ones are written with around 5k lines of code, currently at the top being [iot_fan_controller](https://github.com/engdan77/iot_fan_controller.git), [tasks_collector](https://github.com/engdan77/tasks_collector.git) and [otis_service](https://github.com/engdan77/otis_service.git)
 
-This has been *<u>dynamically</u>* updated on **2025-12-28 02:08** with the help of Python and [GitHub Actions](https://docs.github.com/en/actions).
+This has been *<u>dynamically</u>* updated on **2026-01-04 02:10** with the help of Python and [GitHub Actions](https://docs.github.com/en/actions).
 
 - 👀 LinkedIn profile https://www.linkedin.com/in/danielengvall/
 - 📫 If you like to get in contact with me please send an email to daniel@engvalls.eu
